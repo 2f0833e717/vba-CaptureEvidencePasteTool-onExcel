@@ -1,0 +1,20 @@
+Google Chrome
+step1:
+Ctrl + Shift + I
+Dock size: bottom
+
+step2:
+Ctrl + Shift + I
+Ctrl + Shift + P
+full(capture full size screenshot)
+Enter
+
+Microsoft Edge
+step:1
+Ctrl + Shift + S
+Tab
+Tab
+Tab
+Enter(ページ全体をキャプチャ)
+Ctrl + S(保存)
+Esc
